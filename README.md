@@ -1,4 +1,4 @@
-# node-react-file-explorer
+# node-react-mern-file-explorer
 
 Canada Full-Stack Interview Challenge
 
