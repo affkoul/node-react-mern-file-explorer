@@ -60,6 +60,10 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 The website link attached to this repo would not show the folders for that might have messed up with my server's files.
 
+![GAC Logo](https://geniusandcourage.com/favicon.ico)
+
+Mern File Explorer By [GAC DEV](https://geniusandcourage.com)
+
 ## In Action
 
 ![Mern File Manager Web App](https://hlwsdtech.com:8081/images/mernfilexplorer.png)
