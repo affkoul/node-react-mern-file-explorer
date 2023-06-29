@@ -55,3 +55,11 @@ Open [http://localhost:8001](http://localhost:8001) to view it in the browser.
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Note
+
+The website link attached to this repo would not show the folders for that might have messed up with my server's files.
+
+## In Action
+
+![Mern File Manager Web App](https://hlwsdtech.com:8081/images/mernfilexplorer.png)
